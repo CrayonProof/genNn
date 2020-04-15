@@ -6,6 +6,6 @@ This project is an experamentation in generative neural networks. The end goal i
 • subproject 0.12: Learn the basics of TensorFlow
 • subproject 0.13: Design and build my own classification neural network to apply the skills I learned in 0.11 and 0.12.
 • subproject 0.20: Make a GAN that generates handwritten digits based off the MNIST dataset
-• subproject 0.30: Make a GAN that generates faces off of the CelebA dataset
+• subproject 0.30: Make a GAN that generates faces off of the CelebA dataset "https://www.kaggle.com/jessicali9530/celeba-dataset#000004.jpg"
 • subproject 0.40: Create my own dataset of faces or quotes (like IAN suggested)
 • project 1.00: Make a GAN using my own dataset
