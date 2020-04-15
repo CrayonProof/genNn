@@ -1,2 +1,9 @@
 4/14/20
 Began by trying to get tensorflow demo running. Kept getting "ModuleNotFoundError: No module named '_pywrap_tensorflow_internal' Failed to load the native TensorFlow runtime.". Someone online suggested that it had to do with incompatability of tensorflow and python 3.8. Downloaded Anaconda and created a python 3.6 environment. The tensorflow demo works fine in the Anaconda Python 3.6 environment. Next step is to remember how the heck tensorflow works.
+
+<PROBLEM> "ModuleNotFoundError: No module named '_pywrap_tensorflow_internal' Failed to load the native TensorFlow runtime."
+
+<SOLUTION> Use Anaconda to create Python 3.6 environment and run the project in that environment.
+
+4/15/20
+Followed tutorial to make a simple classifier in tensorflow (classNn.py). It runs ok. Found helpful GAN tutorial by google here "https://www.tensorflow.org/tutorials/generative/dcgan". Which I began following. Got part of the way through with everything running ok but the output is different from the sample output on the tutorial. Rather than printing specific numbers, it is printing generic stuff I wonder if I'm supposed to be running it in a session or something. I think I got ahead of myself and I need to spend more time learning the basics of tensorflow.

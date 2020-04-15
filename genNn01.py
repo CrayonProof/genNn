@@ -70,4 +70,4 @@ discriminator = make_discriminator_model()
 decision = discriminator(generated_image)
 
 sess = tf.Session()
-print (sess.run(decision))
+print (decision)
