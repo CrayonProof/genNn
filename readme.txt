@@ -1,0 +1,1 @@
+This project is an experamentation in generative neural networks. The end goal is to generate images from scratch based off of a pool of other images. Never done this before. We'll see what comes of it.
