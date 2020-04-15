@@ -1,0 +1,2 @@
+4/14/20
+Began by trying to get tensorflow demo running. Kept getting "ModuleNotFoundError: No module named '_pywrap_tensorflow_internal' Failed to load the native TensorFlow runtime.". Someone online suggested that it had to do with incompatability of tensorflow and python 3.8. Downloaded Anaconda and created a python 3.6 environment. The tensorflow demo works fine in the Anaconda Python 3.6 environment. Next step is to remember how the heck tensorflow works.
